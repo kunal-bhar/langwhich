@@ -100,4 +100,4 @@ Metrics: `project show-stats`
 
 
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS END (do not remove) -->
- Some of this documentation has been auto-generated using the [`spacy project document`](https://spacy.io/api/cli#project-document) command!
+ Part of this documentation has been auto-generated using the [`spacy project document`](https://spacy.io/api/cli#project-document) command!
